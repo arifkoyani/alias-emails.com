@@ -42,6 +42,12 @@ export default function Footer() {
             >
               Outlook Aliases
             </Link>
+            <Link
+              href="/api-references"
+              className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
+            >
+              API References
+            </Link>
           </div>
 
           {/* Copyright */}
